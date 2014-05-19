@@ -12,6 +12,11 @@ body {
 	text-align: center;
 }
 
+#text {
+	font-family: Helvetica;
+	margin: 0 20px 20px 20px;
+}
+
 #map-container {
 	height: 650px;
 	width: auto;
